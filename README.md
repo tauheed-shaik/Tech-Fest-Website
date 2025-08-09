@@ -115,7 +115,7 @@ TechFestwebsite/
 ### Local Development
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/TechFest2025.git
+   git clone https://github.com/tauheed-shaik/Tech-Fest-Website.git
    cd TechFest2025
    ```
 
@@ -136,7 +136,7 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
-For any inquiries, please contact the TechFest organizing committee at [contact@srit.ac.in](mailto:contact@srit.ac.in)
+For any inquiries, please contact the TechFest organizing committee at [contact@srit.ac.in](mailto:smahammedtauheed@gmail.com)
 
 ## 🙏 Acknowledgments
 - All faculty members and staff of SRIT

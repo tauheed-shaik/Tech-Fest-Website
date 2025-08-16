@@ -6,7 +6,7 @@
 Welcome to the official repository for Srinivasa Ramanujan Institute of Technology's (SRIT) Annual TechFest 2025! This website serves as the central hub for all TechFest activities, events, and information across various engineering departments.
 
 ## 🚀 Live Demo
-Experience the live website: [https://srit-techfest-2025.windsurf.build](https://srit-techfest-2025.windsurf.build)
+Experience the live website: [Click here !](https://mytechfest.netlify.app/)
 
 ## 🏆 Departments & Events
 
